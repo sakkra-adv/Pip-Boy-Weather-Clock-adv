@@ -25,13 +25,16 @@ Create a file named config.txt in the root directory of the SD card.
 
 Paste the following lines and fill in your details:
 
-Plaintext
 
+
+```
 WIFI_SSID=Your_WiFi_Name
 WIFI_PASSWORD=Your_WiFi_Password
 TIME_ZONE=GMT0BST,M3.5.0/1,M10.5.0/2
 API_KEY=Your_WeatherAPI_Key
 LOCATION=Your_City_Name
+```
+
 
 (Note: The TIME_ZONE string above is for the UK. For Poland, use: CET-1CEST,M3.5.0,M10.5.0/3)
 
