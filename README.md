@@ -13,10 +13,6 @@ StampS3 Optimization: Adjusted display brightness and system initialization for 
 
 UK/Europe Time Support: Pre-configured with POSIX time strings to support automatic Daylight Saving Time (GMT/BST) transitions.
 
-KNOWN ISSUES
-
-Audio (WIP): Sound is currently NOT WORKING. The ADV model uses the ES8311 audio codec via I2S, which requires a specific initialization sequence that hasn't been implemented in this version yet. If you are a developer and know how to wake up the ES8311, feel free to contribute!
-
 INSTALLATION
 
 Format your microSD card to FAT32.
